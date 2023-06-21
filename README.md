@@ -10,9 +10,10 @@ React Practice projects for self-study and fun, all pics and resources from scri
 
 * Project 3 - Meme Generator, An image generator where the user clicks on the "get a new meme image" button, randomly selecting images from the library, and the user can add content to the image by entering custom text to be placed directly above and below the image, respectively.
   
-![image](https://github.com/Insomnia2331/React_Practice.io/assets/103230242/3cf41812-0604-475d-b47e-297c5253bc40)
+![image](https://github.com/Insomnia2331/React_Practice.io/assets/103230242/3cf41812-0604-475d-b47e-297c5253bc40)  
 
-The final version will be:
+
+The final version will be:  
 ![image](https://github.com/Insomnia2331/React_Practice.io/assets/103230242/2ea3bc86-44fa-473f-a723-fb4e4cbccafb)
 
 
