@@ -11,7 +11,8 @@ Here is the Light Mode:
 
 * Project 2 - Airbnb Clone, Final version looks like in live server:  
 
-![1686833523750](https://github.com/Insomnia2331/React_Practice.io/assets/103230242/ab49b5d1-faa6-4558-a7d1-e594ac73d582)
+![1686833523750](https://github.com/Insomnia2331/React_Practice.io/assets/103230242/ab49b5d1-faa6-4558-a7d1-e594ac73d582)  
+* Project Link: https://airb-clone.netlify.app/
 
 * Project 3 - Meme Generator, An image generator where the user clicks on the "get a new meme image" button, randomly selecting images from the library, and the user can add content to the image by entering custom text to be placed directly above and below the image, respectively.
   
