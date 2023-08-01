@@ -19,7 +19,10 @@ Here is the Light Mode:
 
 
 The final version will be:  
-![image](https://github.com/Insomnia2331/React_Practice.io/assets/103230242/2ea3bc86-44fa-473f-a723-fb4e4cbccafb)
+![image](https://github.com/Insomnia2331/React_Practice.io/assets/103230242/2ea3bc86-44fa-473f-a723-fb4e4cbccafb)  
+
+Project Link: https://memos-generator.netlify.app/
+
 
 
 
