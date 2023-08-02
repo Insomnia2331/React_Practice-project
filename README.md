@@ -30,8 +30,8 @@ The final version will be:
 # How to run these projects in your local environment?  
 * Create your React environment on your local machine, like using 'npx create-react-app xxx'
 * Replace all files you need from src folder
-* Run 'npm i' to install all dependencies you need
-* Run 'npm start' to start project
+* Run 'npm i' in the terminal or CMD to install all dependencies you need
+* Run 'npm start' in the terminal or CMD to start the project
 * Go localhost find it, all done!  
 
 
