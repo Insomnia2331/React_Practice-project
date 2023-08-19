@@ -26,7 +26,7 @@ The final version will be:
 
 * Project Link: https://memos-generator.netlify.app/  
   
-* Project 4 - Markdown Notes App, creating a Markdown file collection book with React. Users can add, delete or change events at any time.
+* Project 4 - Markdown Notes App, creating a Markdown file collection book with React. Users can add, delete or change events at any time.  
   
 The final version will be:  
 ![image](https://github.com/Insomnia2331/React_Practice-project/assets/103230242/8436808d-b285-470b-8709-ae3bfeb73956)    
