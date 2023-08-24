@@ -1,4 +1,4 @@
-![image](https://github.com/Insomnia2331/React_Practice-project/assets/103230242/eae515a9-ad1c-47ff-9b60-e3c9dffa927e)# React_Practice.io
+# React_Practice.io
 React Practice projects for self-study and fun, all pics and resources from scrimba
 
 * Project 1 - Simple Static website by react, User could switch mode by clicking the button. The final version looks like this in the live server:
@@ -39,8 +39,8 @@ The final version will be:
 ![image](https://github.com/Insomnia2331/React_Practice-project/assets/103230242/79545c8a-da82-4860-a68c-a8e22c40f907)  
 ![image](https://github.com/Insomnia2331/React_Practice-project/assets/103230242/f7170c4f-a307-4c50-8f9a-da35621ddf5b)  
 
-* Project Link：
-
+* Project Link：https://rolldice-games.netlify.app/  
+  
 
   
   
